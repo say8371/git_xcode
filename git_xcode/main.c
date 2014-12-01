@@ -13,5 +13,6 @@ int main(int argc, const char * argv[]) {
     printf("Hello, World!\n");
     printf("Hello Miku");
     printf("Hello Xcode!");
+    printf("Hello github!");
     return 0;
 }
