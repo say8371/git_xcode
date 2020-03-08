@@ -1,3 +1,1 @@
-git_xcode
-=========
-git tutorial for local xcode
+remote repository of Xcode
